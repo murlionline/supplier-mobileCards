@@ -1,0 +1,10 @@
+[
+	{
+		"id": "hcp://supplierdetails/manifest.json",
+		"_entityType": "PORTAL_SITE_V2_TEMPLATE_APP_CONFIG",
+		"path": "",
+		"name": "My Supplier Details",
+		"thumbnail": "sap-icon://supplier",
+		"preview": ""
+	}
+]

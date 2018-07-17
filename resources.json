@@ -1,0 +1,64 @@
+{
+    "resources": [
+        {
+            "name": "view/SupplierDetails.view.xml"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "index.html"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_ja.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_fr.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_de.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_en.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "asset/app_bg_image.jpg"
+        },
+        {
+            "name": "localService/metadata.xml"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": "cp.app.descriptor.json"
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "model/products.json"
+        },
+        {
+            "name": "controller/SupplierDetails.controller.js"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "neo-app.json"
+        }
+    ]
+}
